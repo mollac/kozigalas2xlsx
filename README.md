@@ -6,7 +6,7 @@ A https://kozszolgallas.ksz.gov.hu oldalon megjelenő álláshírdetésekből ge
  params = {
         'page': f'{page}',
         'sort': 'Created DESC',
-        ## 'countyCode': 'county.gyormosonsopron',
+        'countyCode': 'county.gyormosonsopron',
     }
 ```
-
+Jelenleg Győr-Moson-Sopron megye van beállítva.
